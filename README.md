@@ -14,13 +14,17 @@ pip install PyPDF2
 ###### For reference https://pypi.org/project/PyPDF2/
 
 ## How to Use?
-- On Command Line Issue
+- On Terminal (Linux) or cmd.exe (Windows) Issue 
 ```
 python3 bookshelf.py <pathname>
 ```
 ```
-Eg. python3 bookshelf.py '/home/manoj/Documents/Mainframe/DB2V12'
+Linux Eg. python3 bookshelf.py '/home/manoj/Documents/Mainframe/DB2V12'
 ```
+```
+Windows Eg.python bookshelf.py C:\Users\ManojJadwani\Documents\ContentManager
+```
+
 **pdflinks.html** is generated which can be viewed using any browser.
 
 
