@@ -17,6 +17,8 @@ pip install PyPDF2
 - On Command Line Issue
 ```
 python3 bookshelf.py <pathname>
+```
+```
 Eg. python3 bookshelf.py '/home/manoj/Documents/Mainframe/DB2V12'
 ```
 **pdflinks.html** is generated which can be viewed using any browser.
