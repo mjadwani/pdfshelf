@@ -7,11 +7,14 @@ Project uses PyPDF2 library.
 
 
 ## Setup
-###### Install PyPDF2 library: 
+
+- ###### Install PyPDF2 library: 
 ``` 
 pip install PyPDF2
 ```
 ###### For reference https://pypi.org/project/PyPDF2/
+
+- ###### Download **bookshelf.py** python code.
 
 ## How to Use?
 - On Terminal (Linux) or cmd.exe (Windows) Issue 
