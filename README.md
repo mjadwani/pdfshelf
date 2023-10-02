@@ -10,7 +10,7 @@ Project uses PyPDF2 library.
 
 - ###### Install PyPDF2 library: 
 ``` 
-pip install PyPDF2
+pip install PyPDF2==2.12.1
 ```
 ###### For reference https://pypi.org/project/PyPDF2/
 
